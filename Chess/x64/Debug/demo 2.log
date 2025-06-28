@@ -1,0 +1,22 @@
+﻿  high.cpp
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(58,34): warning C4244: 'argument': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(58,33): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(63,34): warning C4244: 'argument': conversion from 'clock_t' to 'float', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(63,33): warning C4244: '=': conversion from 'float' to 'clock_t', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(146,16): warning C4102: 'move_taking': unreferenced label
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(252,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(295,30): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(341,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(368,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(822,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(824,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(826,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(828,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(1267,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(1287,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(1474,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(1494,36): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(1671,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(1781,20): warning C4102: 'move_taking': unreferenced label
+C:\Users\Dell\source\repos\demo 2\demo 2\high.cpp(52): warning C4715: 'time_in_sec': not all control paths return a value
+  demo 2.vcxproj -> C:\Users\Dell\source\repos\demo 2\x64\Debug\demo 2.exe
